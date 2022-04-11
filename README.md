@@ -2,19 +2,52 @@
 
 ## Learning Goals
 
-- a
-- b
-- c
+- Parameter Types
+- Return Types
+- Function Documenting
 
 ## Introduction
 
-## a
+## Parameter Type Annotations
 
-## b
+- this is how we add param types
 
-## c
+### Optional Parameters
+
+- this is an optional parameter
+
+### Default Parameters
+
+- this is a default parameter
+
+## Return Type Annotations
+
+- this is how we add return types
+
+### implicit return
+
+- implicit return
+
+### explicit return
+
+- explicit return
+
+### void return
+
+- void return
+
+## Documenting Functions
+
+- why we document functions
+- how we document functions
 
 ## Conclusion
+
+in this lesson we covered:
+
+- Parameter Types
+- Return Types
+- Function Documenting
 
 ## Resources
 
